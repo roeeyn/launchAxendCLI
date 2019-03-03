@@ -1,5 +1,19 @@
 {
-  "bin": "launchAxend",
+  "name": "Axend CLI",
+  "version": "1.0.0",
+  "description": "Axend project launcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Axend",
+    "CLI"
+  ],
+  "author": "Rodrigo M. <rodrigo@axend.co>",
+  "bin": {
+    "launchAxend": "./index.js"
+  },
   "dependencies": {
     "@octokit/rest": "^16.16.3",
     "chalk": "^2.4.2",
