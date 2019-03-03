@@ -13,7 +13,7 @@
   "author": "Rodrigo M. <rodrigo@axend.co>",
   "preferGlobal": true,
   "bin": {
-    "launchAxend": "./index.js"
+    "apl": "./index.js"
   },
   "dependencies": {
     "@octokit/rest": "^16.16.3",
