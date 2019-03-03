@@ -1,5 +1,5 @@
 {
-  "name": "Axend CLI",
+  "name": "apl",
   "version": "1.0.0",
   "description": "Axend project launcher",
   "main": "index.js",
