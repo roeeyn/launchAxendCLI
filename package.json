@@ -11,6 +11,7 @@
     "CLI"
   ],
   "author": "Rodrigo M. <rodrigo@axend.co>",
+  "preferGlobal": true,
   "bin": {
     "launchAxend": "./index.js"
   },
